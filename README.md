@@ -1,0 +1,1 @@
+This rep shows how I built an  innovative research assistant, exploring how it ingests multiple unstructured data sources with different formats (.pdf, .pptx, .docx, etc…) by utilizing the Unstructured API, then use these documents in a CrewAI Multi-Agentic system to extract insights from the pool of this unstructured data.
